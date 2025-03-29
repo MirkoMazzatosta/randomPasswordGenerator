@@ -1,6 +1,6 @@
 # Random Password Generator
 
-A JavaScript script that generates strong, customizable passwords based on user-defined criteria.
+A JavaScript script that generates strong, customizable passwords based on user-defined criteria (works via Console).
 
 ## Features
 - **Character Types**: Includes lowercase letters, uppercase letters, numbers, and symbols
